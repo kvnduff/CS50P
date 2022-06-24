@@ -82,7 +82,7 @@ accessed by clicking on the associated links.
   * Response validation: validate email addresses ([I](https://cs50.harvard.edu/python/2022/psets/7/response), [R](https://github.com/kvnduff/CS50P/tree/master/pset7/response))
 - Week 8: Object-Oriented Programming
   * Seasons of love: compute age from date ([I](https://cs50.harvard.edu/python/2022/psets/8/seasons), [R](https://github.com/kvnduff/CS50P/tree/master/pset8/seasons))
-  * Cookie jar: create an OOP program for attributes/methods of a cookie jar ([I](https://cs50.harvard.edu/python/2022/psets/8/cookie), [R](https://github.com/kvnduff/CS50P/tree/master/pset8/cookie))
+  * Cookie jar: create an OOP program for attributes/methods of a cookie jar ([I](https://cs50.harvard.edu/python/2022/psets/8/jar), [R](https://github.com/kvnduff/CS50P/tree/master/pset8/jar))
   * CS50 shirtificate: create a custom PDF image of shirt with text ([I](https://cs50.harvard.edu/python/2022/psets/8/shirtificate), [R](https://github.com/kvnduff/CS50P/tree/master/pset8/shirtificate))
 - Week 9: Final Project
   * Final Project: a tool that generates schedules for different types of pickleball tournaments ([I](https://cs50.harvard.edu/python/2022/project/), [R](https://github.com/kvnduff/CS50P/tree/master/final_project))<br>
