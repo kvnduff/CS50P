@@ -1,0 +1,10 @@
+ROUND,C1,C2,C3,C4,BYE
+1,F:G,A:H,B:I,D:E,C
+2,E:I,D:C,A:G,F:B,H
+3,G:D,E:F,H:C,A:I,B
+4,C:F,I:G,E:B,H:D,A
+5,B:H,F:A,I:D,C:G,E
+6,I:C,G:B,F:H,E:A,D
+7,D:A,H:I,G:E,B:C,F
+8,H:E,B:D,C:A,I:F,G
+9,A:B,C:E,D:F,G:H,I

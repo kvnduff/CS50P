@@ -1,0 +1,8 @@
+ROUND,C1,C2
+1,A:B+C,G+E:D+F
+2,G:C+D,F+B:A+E
+3,F:D+A,E+C:G+B
+4,E:A+G,B+D:F+C
+5,B:G+F,C+A:E+D
+6,C:F+E,D+G:B+A
+7,D:E+B,A+F:C+G

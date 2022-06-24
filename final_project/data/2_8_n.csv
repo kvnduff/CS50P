@@ -1,0 +1,15 @@
+GAME,ROUND,COURT,TEAMS
+1,1,1,H+G:F+C
+2,1,2,B+A:D+E
+3,2,1,G+D:H+E
+4,2,2,C+B:F+A
+5,3,1,H+C:E+B
+6,3,2,D+A:G+F
+7,4,1,E+G:B+F
+8,4,2,A+C:D+H
+9,5,1,A+E:C+G
+10,5,2,F+H:B+D
+11,6,1,C+D:G+B
+12,6,2,E+F:H+A
+13,7,1,D+F:E+C
+14,7,2,B+H:A+G

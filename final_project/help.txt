@@ -1,0 +1,81 @@
+ROTATING-PARTNER ROUND ROBIN FORMAT
+
+A rotating partner round robin is a tournament format in which players partner 
+with every other player once (i.e. they "rotate" through partners) and oppose 
+every other player twice. This is a highly social format but tends not to be 
+used in high-level competition.
+
+It is not possible to produce "true" rotating-partner round robins for all
+number of players. Following is a breakdown of how the rotating-parter round 
+robin format has been modified in order to produce schedules for 4 through 26 
+players. The format depends upon the number of players remaining
+after dividing the total number of players by 4. If the number of players
+is divisible by 4 then a "true" rotating-partner is possible and no 
+modifications are needed.
+
+* R = 1: Each round, the player not assigned to a game is given
+  a bye.
+
+* R = 2: Each round, the two players not assigned to a doubles game play a 
+  one-versus-one game. Depending on the preference of the tournament 
+  organizers, this could constitute full court singles, skinny-singles, 
+  half-court dinking singles, or any other preferred one-versus-one format. 
+  Alternatively, these two players could be
+  assigned a bye.
+
+* R = 3: Each round, the three players not assigned to a doubles game play a 
+  one-versus-two game. Depending on the preference of the tournament 
+  organizers, this could constitute cut-throat or any other two-versus-one 
+  format. Alternatively, these three players could be
+  assigned a bye.
+
+FIXED-PARTNER ROUND ROBIN FORMAT
+
+A fixed-partner round robin is the classic round-robin format where players
+partner with the same player (i.e. they have "fixed" teams) throughout the 
+tournament. This format ensures each team plays the same number of games and 
+often a higher number of minimum games compared to other tournament
+formats (e.g. only two games in double elimination format). If the number
+of teams is odd then one team will be assigned a bye every round.
+
+ROUND ROBIN TOURNAMENT SCHEDULES
+
+The tournament schedules can be viewed in "narrow" and "wide" formats. The 
+narrow format shows games sequentially in a list. This format is useful to
+see a list of all the games in the tournament. If your venue doesn't have
+the ideal number of courts available (see below) then this list can be used
+to assign games to courts and to keep track of completed games. The wide 
+format schedule shows all games in a table where rows are rounds and courts
+are columns. This format also shows if a player/team has a bye.
+
+The following information can be used to interpret the tournament schedules:
+
+* GAMES: The number of games included in the schedule is explicitly
+  included in the narrow format schedule under the "GAME" column. This is a
+  unique listing of all the games included in the schedule. The "GAME" 
+  column is not included in the wide format schedule, however, the 
+  number of games can be calculated multiplying the number of rows and columns.
+
+* ROUND: Several games are included within a round. All teams 
+  (fixed-partner) or players (rotating-partner) will play during each 
+  round, except for schedules with 7, 11, 15, 19 and 23 players/teams, 
+  where one player/team will have a bye.
+
+* COURTS: Ideally, the venue where the tournament is hosted will have at 
+  least as many courts as there are games in a round. This allows all games 
+  of each round to be played simultaneously. The number of games in each 
+  round (i.e. the ideal number of courts available) is shown by the maximum
+  number in the "COURT" column in the narrow format schedule, or by the
+  largest C# in the first row in the wide format schedule. If your venue 
+  doesn't have enough courts to accommodate the number of games within a round 
+  then games can be assigned as soon as courts and players/teams become 
+  available.
+
+* TEAMS: The players/teams assigned to each court are shown in the "TEAM"
+  column in the narrow format schedule and under the court columns (e.g. 
+  "C1", "C2", "C3", etc.) in the wide format schedule. The team to the left
+  of the ":" is the team that serves first.
+
+* BYE: For schedules that require a bye (schedules with 7, 11, 15, 19 or 
+  23 players/teams) the player/team with a bye is indicated in the wide format
+  schedule.

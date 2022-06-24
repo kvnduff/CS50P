@@ -1,0 +1,8 @@
+ROUND,C1,C2,C3,BYE
+1,E:G,F:B,D:A,C
+2,C:D,A:G,E:F,B
+3,F:A,B:E,G:C,D
+4,B:C,G:D,A:E,F
+5,D:E,C:F,B:G,A
+6,G:F,D:B,C:A,E
+7,A:B,E:C,F:D,G

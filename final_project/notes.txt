@@ -1,0 +1,22 @@
+PROJECT:
+    1. Add unit tests
+    2. Ensure works on Windows (e.g. display, pyinstaller)
+
+OOP:
+    1. Classes could include:
+       - title_screen
+       - help
+       - tournament
+         - methods: get_format, get_number
+         - attributes: format, number
+       - menu
+         - methods: get_selection
+         - attributes: selection
+       - table
+         - methods: get_width, print_screen, save_file
+         - attributes: format and number inherited from tournament, width
+
+FUTURE:
+    1. Generate schedules using AI
+    2. Add scoresheets
+    3. Port to Android/IOS

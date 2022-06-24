@@ -1,0 +1,6 @@
+ROUND,C1,C2,BYE
+1,C:E,D:B,A
+2,D:A,B:E,C
+3,B:C,E:A,D
+4,E:D,A:C,B
+5,A:B,C:D,E

@@ -1,0 +1,16 @@
+ROUND,C1,C2,C3,C4
+1,D+I:F+B,L+A:C+G,K+O:M+H,N+J:E+P
+2,A+J:N+L,D+K:O+I,P+G:C+E,M+F:B+H
+3,E+H:B+C,F+G:P+M,N+O:I+L,D+A:J+K
+4,P+J:K+M,C+L:I+B,D+F:G+A,O+H:E+N
+5,D+O:H+F,E+G:A+N,J+L:C+P,B+M:K+I
+6,G+M:B+E,D+J:L+O,I+N:A+K,C+H:F+P
+7,K+P:F+A,H+N:I+C,B+L:O+E,D+G:M+J
+8,I+M:J+C,A+E:O+F,D+H:N+G,L+P:K+B
+9,D+L:P+H,K+N:G+B,M+E:A+I,F+C:J+O
+10,N+C:F+K,D+M:E+L,O+B:G+J,A+P:H+I
+11,J+I:H+G,P+B:O+A,F+E:L+K,D+N:C+M
+12,O+C:M+A,G+K:L+H,D+P:B+N,E+I:J+F
+13,D+E:I+P,J+B:N+F,C+K:G+O,H+A:M+L
+14,B+A:H+J,D+C:K+E,L+F:N+M,G+I:P+O
+15,M+O:P+N,I+F:L+G,H+K:E+J,D+B:A+C

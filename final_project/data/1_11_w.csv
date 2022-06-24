@@ -1,0 +1,12 @@
+ROUND,C1,C2,C3,C4,C5,BYE
+1,D:H,I:E,K:C,J:A,F:G,B
+2,F:K,J:H,G:B,D:E,A:I,C
+3,B:I,D:G,A:K,H:F,E:C,J
+4,G:E,A:F,C:H,B:J,I:K,D
+5,H:A,K:B,E:J,I:D,C:F,G
+6,J:C,G:I,F:D,E:K,B:H,A
+7,K:D,F:J,B:E,C:I,G:A,H
+8,C:G,E:A,H:I,F:B,J:D,K
+9,I:J,B:C,D:A,K:G,H:E,F
+10,E:F,H:K,J:G,A:C,D:B,I
+11,A:B,C:D,I:F,G:H,K:J,E
