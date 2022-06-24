@@ -43,9 +43,9 @@ accessed by clicking on the associated links.
 - Week 1: Conditionals
   * Deep thought: prompt the user for the answer to the Great Question of Life ([I](https://cs50.harvard.edu/python/2022/psets/1/deep), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/deep))
   * Home Federal Savings Bank: prompt the user for a greeting ([I](https://cs50.harvard.edu/python/2022/psets/1/bank), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/bank))
-  * File extensions: output a file’s media type ([I](https://cs50.harvard.edu/python/2022/psets/1/extensions), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/extension))
+  * File extensions: output a file’s media type ([I](https://cs50.harvard.edu/python/2022/psets/1/extensions), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/extensions))
   * Math interpreter: evaluate an arithmetic expression ([I](https://cs50.harvard.edu/python/2022/psets/1/interpreter), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/interpreter))
-  * Meal time: evaluate if a time is breakfast, lunch or dinner time ([I](https://cs50.harvard.edu/python/2022/psets/1/meal), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/dinner))
+  * Meal time: evaluate if a time is breakfast, lunch or dinner time ([I](https://cs50.harvard.edu/python/2022/psets/1/meal), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/meal))
 - Week 2: Loops
   * camelCase: convert camel case to snake case  ([I](https://cs50.harvard.edu/python/2022/psets/2/camel), [R](https://github.com/kvnduff/CS50P/tree/master/pset2/camel))
   * Coke machine: count coins inserted into coke machine ([I](https://cs50.harvard.edu/python/2022/psets/2/coke), [R](https://github.com/kvnduff/CS50P/tree/master/pset2/coke))
