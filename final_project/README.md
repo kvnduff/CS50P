@@ -3,7 +3,7 @@
 The pickleball tournament calculator is a program that generates schedules for
 different types of pickleball tournaments. A video demonstration of the program 
 can be found at:
-  `https://www.youtube.com/watch?v=WHggJosI90s`
+  [Pickleball Tournmant Calculator](https://www.youtube.com/watch?v=WHggJosI90s)
 
 
 ## Program Features
